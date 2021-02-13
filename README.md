@@ -1,2 +1,5 @@
 # DynamicProgramming
-Solution to basic dynamic programming problem . Hackerrank problem solutions for exercise.
+Basic example solutions for dynamic programming problems which is 
+based on dynamic solving strategies like tabulation and memoization.
+Solution of Hackerrank problems. 
+
