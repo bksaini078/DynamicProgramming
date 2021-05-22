@@ -8,5 +8,5 @@ for j in range(n):
             count.append(count[i-1]+1)
         else:
             count.append(1)
-    print(count)
+
     print("Case #{}: ".format(j+1),*count)
